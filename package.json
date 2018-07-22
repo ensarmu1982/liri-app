@@ -1,0 +1,30 @@
+{
+  "name": "04-day",
+  "version": "1.0.0",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ensarmu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "fs": "0.0.1-security",
+    "install": "^0.12.1",
+    "node-spotify-api": "^1.0.7",
+    "npm": "^6.2.0",
+    "request": "^2.87.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ensarmu1982/liri-node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ensarmu1982/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/ensarmu1982/liri-node-app#readme",
+  "description": ""
+}
